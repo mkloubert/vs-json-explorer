@@ -1,0 +1,3 @@
+Icons:
+    - /icon.png (Madebyoliver, https://www.flaticon.com/authors/madebyoliver;
+                 License: Commons BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
